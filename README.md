@@ -1,12 +1,13 @@
 # Evidencia 1
  Evidencia 1 de la clase Computación en Java - Carolina Arlene Castro Garza
-#Instalación y configuración.
+
+Instalación y configuración.
 
 
-#Uso del programa.
+Uso del programa.
 
 
-#Créditos.
+Créditos.
 
 
-#Licencia.
+Licencia.
